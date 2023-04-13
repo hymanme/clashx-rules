@@ -1,3 +1,7 @@
+## 内网服务
+IP-CIDR,10.0.0.0/24,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
+
 DOMAIN-SUFFIX,imweather.fun
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,amazon.com
